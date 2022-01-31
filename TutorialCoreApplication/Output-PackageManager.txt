@@ -1,0 +1,30 @@
+﻿Restoring packages for C:\Users\ganga\source\repos\TutorialCoreApplication\TutorialCoreApplication\TutorialCoreApplication.csproj...
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/index.json 1032ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/5.0.13/microsoft.entityframeworkcore.tools.5.0.13.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.tools/5.0.13/microsoft.entityframeworkcore.tools.5.0.13.nupkg 96ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/index.json 1039ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/5.0.13/microsoft.entityframeworkcore.design.5.0.13.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.design/5.0.13/microsoft.entityframeworkcore.design.5.0.13.nupkg 73ms
+  GET https://api.nuget.org/v3-flatcontainer/humanizer.core/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.csharp/index.json
+  OK https://api.nuget.org/v3-flatcontainer/humanizer.core/index.json 1016ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.csharp/index.json 1280ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg 76ms
+  GET https://api.nuget.org/v3-flatcontainer/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg 98ms
+Installed Microsoft.EntityFrameworkCore.Design 5.0.13 from https://api.nuget.org/v3/index.json with content hash T9Qq5RebYkx2EEU7ahHNediObrIE5dsRKt6mTkVwqrVqX1Kp+/HD02T1ZMdI1H62WLHH4QIdcCfjgsKgenTQFg==.
+Installed Microsoft.EntityFrameworkCore.Tools 5.0.13 from https://api.nuget.org/v3/index.json with content hash i/46k4pfCBMb2LVjLqHAbBO8WsAaB+CKbe8oF9ZBTtjVqyEJAxSpn8IZcvajY2KJmM7lc3zgyUdaommvxH2ClA==.
+Installed Humanizer.Core 2.8.26 from https://api.nuget.org/v3/index.json with content hash OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==.
+Installed Microsoft.CSharp 4.7.0 from https://api.nuget.org/v3/index.json with content hash pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==.
+Installing NuGet package Microsoft.EntityFrameworkCore.Tools 5.0.13.
+Committing restore...
+Generating MSBuild file C:\Users\ganga\source\repos\TutorialCoreApplication\TutorialCoreApplication\obj\TutorialCoreApplication.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\ganga\source\repos\TutorialCoreApplication\TutorialCoreApplication\obj\project.assets.json
+Successfully installed 'Humanizer.Core 2.8.26' to TutorialCoreApplication
+Successfully installed 'Microsoft.CSharp 4.7.0' to TutorialCoreApplication
+Successfully installed 'Microsoft.EntityFrameworkCore.Design 5.0.13' to TutorialCoreApplication
+Successfully installed 'Microsoft.EntityFrameworkCore.Tools 5.0.13' to TutorialCoreApplication
+Executing script file 'C:\Users\ganga\.nuget\packages\microsoft.entityframeworkcore.tools\5.0.13\tools\init.ps1'...
